@@ -17,3 +17,4 @@ llvm/*
 !.devcontainer/upload-images.sh
 
 .DS_Store
+.cache/*
